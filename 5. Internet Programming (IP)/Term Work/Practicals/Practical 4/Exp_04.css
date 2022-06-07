@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(206, 172, 141);
+}
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 8px;
+    border: 6px solid #703708;
+    font-size:34px;
+    height: 65px;
+    width: 365px;
+}
+
+button{
+    border-radius: 8px;
+    font-size: 40px;
+    background: #fa7d0f;
+    width: 82px;
+    height: 61px;
+    margin: 6px;
+}
+
+button.sub {
+    width: 178px;
+}
+
+.calculator{ 
+    border: 4px solid #703708;
+    background-color: #e7c67e;
+    padding: 23px;
+    border-radius: 20px;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 28px;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.footer{
+    text-align: right;
+}
